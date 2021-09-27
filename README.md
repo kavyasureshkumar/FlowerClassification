@@ -8,4 +8,5 @@ The pre-trained models used to train are
 ## App
 A streamlit app has been created to help classify the images of flowers using the two models
 ![image](https://user-images.githubusercontent.com/76042437/134915104-560620be-d4ce-42c0-b9ee-76ca1aa70dc3.png)
-![image](https://user-images.githubusercontent.com/76042437/134915485-0d7d594d-0420-4772-89e2-b15627d0f844.png)
+![image](https://user-images.githubusercontent.com/76042437/134917013-b542f2a1-18ac-462e-b398-bcb22cf28c81.png)
+
