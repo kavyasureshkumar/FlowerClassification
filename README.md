@@ -5,6 +5,9 @@ The pre-trained models used to train are
 1. VGG-19
 2. Xception
 
+Since the data and models are too large to be uploaded in github, they can be found in the following link:
+https://1drv.ms/u/s!Alw10moaW3YwgYMzjWTpEXr5aQfhFA?e=CCSEYi
+
 ## App
 A streamlit app has been created to help classify the images of flowers using the two models
 
