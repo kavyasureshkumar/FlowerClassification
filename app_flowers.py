@@ -34,7 +34,7 @@ col1.write("VGG 19")
 col1.write("Xception")
 col2.markdown("### Accuracy")
 col2.write("69%")
-col2.write("77%")
+col2.write("79%")
 image = st.file_uploader("Choose an image", type = "jpeg")
 if image is None:
     st.write("Please select an image")
@@ -46,7 +46,7 @@ else:
         if option == "VGG-19":
             model = tf.keras.models.load_model('flowers.h5')
         else:
-            model = tf.keras.models.load_model('flowers_77.h5')
+            model = tf.keras.models.load_model('flowers_79.h5')
     predict = st.button("Predict")
     if predict:
         with st.spinner('Predicting ...'):
