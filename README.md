@@ -10,5 +10,5 @@ A streamlit app has been created to help classify the images of flowers using th
 
 ![image](https://user-images.githubusercontent.com/76042437/134971254-ee3dce8b-d3d8-4a63-9310-6b64595ec061.png)
 
-![image](https://user-images.githubusercontent.com/76042437/134917013-b542f2a1-18ac-462e-b398-bcb22cf28c81.png)
+![image](https://user-images.githubusercontent.com/76042437/134971926-0564836f-a4ce-4771-bde1-d03d520646c5.png)
 
